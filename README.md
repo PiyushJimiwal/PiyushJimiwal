@@ -1,5 +1,16 @@
 # 💫 About Me:
-I am a Btech CSE student <br>I have taken a AIML as specialization <br>
+<br>Hi, I’m Piyush Jimiwal<br>
+I’m a beginner Python developer who enjoys learning programming concepts and building small but useful projects.
+
+I’m currently focusing on:
+
+Writing Python scripts
+
+Automation and small task-based programs
+
+Improving problem-solving skills with Data Structures & Algorithms
+
+Learning how real-world software works through hands-on practice <br>
 
 
 ## 🌐 Socials:
