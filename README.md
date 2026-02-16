@@ -1,33 +1,26 @@
 ### Hi there 👋
 * 👂 My name is Piyush Singh Jimiwal
-
 * 👩 Pronouns: He/Him
-
 * 🔭 I’m currently working on
 - Striver A to Z DSA sheet 
 - Machine leaning projects
-
 * 🌱 I’m currently learning
 - Data Structures & Algorithms  
 - Python for AI/ML  
 - Deep Learning with TensorFlow & Keras
-
 * 🤝 I’m looking to collaborate on
 - Machine Learning Projects  
 - Open Source Python Projects  
 - Web Development Projects
-
 * 🤔 I’m looking for help with
 - Advanced DSA problems  
 - Optimizing ML models  
 - Writing clean and scalable code
-
 * 💬 Ask me about
 - Python Programming  
 - DSA concepts  
 - Machine Learning basics  
 - Neural Networks
-
 * 📫 How to reach me:
 - LinkedIn:https://linkedin.com/in/Piyush Singh Jimiwal
 - Email: piyushjimiwal05@gmail.com
