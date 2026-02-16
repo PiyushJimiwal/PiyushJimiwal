@@ -1,16 +1,42 @@
-# 💫 About Me:
-<br>Hi, I’m Piyush Jimiwal<br>
-I’m a beginner Python developer who enjoys learning programming concepts and building small but useful projects.
+### Hi there 👋
+* 👂 My name is Piyush Singh Jimiwal
 
-I’m currently focusing on:
+* 👩 Pronouns: He/Him
 
-Writing Python scripts
+* 🔭 I’m currently working on
+- Striver A to Z DSA sheet 
+- Machine leaning projects
 
-Automation and small task-based programs
+* 🌱 I’m currently learning
+- Data Structures & Algorithms  
+- Python for AI/ML  
+- Deep Learning with TensorFlow & Keras
 
-Improving problem-solving skills with Data Structures & Algorithms
+* 🤝 I’m looking to collaborate on
+- Machine Learning Projects  
+- Open Source Python Projects  
+- Web Development Projects
 
-Learning how real-world software works through hands-on practice <br>
+* 🤔 I’m looking for help with
+- Advanced DSA problems  
+- Optimizing ML models  
+- Writing clean and scalable code
+
+* 💬 Ask me about
+- Python Programming  
+- DSA concepts  
+- Machine Learning basics  
+- Neural Networks
+
+* 📫 How to reach me:
+- LinkedIn:https://linkedin.com/in/Piyush Singh Jimiwal
+- Email: piyushjimiwal05@gmail.com
+* ❤️ I love
+- Solving coding problems  
+- Building real-world tech projects  
+- Playing Badminton 🏸  
+- Listening musics 🎶 
+* ⚡ Fun fact: I started like a cocoon — quiet and unsure — but with learning, growth, and great friends, I’m transforming into a confident developer 🦋
 
 
 ## 🌐 Socials:
