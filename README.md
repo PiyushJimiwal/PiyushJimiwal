@@ -54,6 +54,12 @@ I started like a cocoon — quiet and unsure — but with learning, growth, and 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushJimiwal_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/PiyushJimiwal/PiyushJimiwal/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PiyushJimiwal/PiyushJimiwal/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PiyushJimiwal/PiyushJimiwal/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/PiyushJimiwal/PiyushJimiwal/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 
