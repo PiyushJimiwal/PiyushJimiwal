@@ -1,5 +1,7 @@
-### Hi there 👋  
-I'm **Piyush Singh Jimiwal**  
+## 👋 Hi, I'm Piyush Singh Jimiwal
+💻 Passionate about Python, DSA, and Machine Learning
+🚀 Building real-world projects and constantly improving my problem-solving skills
+🦋 Growing every day — from learner to confident developer
 
 ⚡ **Fun fact:**  
 I started like a cocoon — quiet and unsure — but with learning, growth, and great friends, I’m transforming into a confident developer 🦋  
