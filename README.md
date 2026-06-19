@@ -47,11 +47,6 @@ I started like a cocoon — quiet and unsure — but with learning, growth, and 
 
 [![](https://visitcount.itsvg.in/api?id=PiyushJimiwal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=PiyushJimiwal&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=PiyushJimiwal&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushJimiwal_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐍 Contribution Snake
 
